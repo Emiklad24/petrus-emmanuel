@@ -1,3 +1,9 @@
 h1:{
     color: brown;
 }
+
+.header{
+    color: brown;
+    background: gray;
+    border: 1px solid #f1f1f1;
+}
